@@ -1,0 +1,1 @@
+Sample Text for the program to copy the contents of one file into the other using byte stream
